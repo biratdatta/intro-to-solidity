@@ -9,3 +9,5 @@ Some good links for reading:-
 https://www.investopedia.com/terms/b/blockchain.asp
 <br>
 https://github.com/manojpramesh/solidity-cheatsheet
+<br>
+https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp
