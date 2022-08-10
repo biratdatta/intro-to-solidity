@@ -11,3 +11,5 @@ https://www.investopedia.com/terms/b/blockchain.asp
 https://github.com/manojpramesh/solidity-cheatsheet
 <br>
 https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp
+<br>
+https://bitcoin.org/bitcoin.pdf
